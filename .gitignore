@@ -1,0 +1,5 @@
+# Ignore license files
+*.lic
+
+# Ignore credentials folder
+credentials/
