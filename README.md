@@ -1,2 +1,2 @@
 # Energy_data_generation
-Vanilla GANS and Diffussion models trained with 2022 France's energy price data
+Vanilla GANS and Diffusion models trained with France's energy price data
